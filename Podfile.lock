@@ -1,0 +1,26 @@
+PODS:
+  - React (0.4.2):
+    - React/Core (= 0.4.2)
+  - React/Core (0.4.2)
+  - React/RCTText (0.4.2):
+    - React/Core
+
+DEPENDENCIES:
+  - React (from `https://github.com/yusefnapora/react-native.git`, branch `dynamic-library-modules`)
+  - React/RCTText (from `https://github.com/yusefnapora/react-native.git`, branch
+    `dynamic-library-modules`)
+
+EXTERNAL SOURCES:
+  React:
+    :branch: dynamic-library-modules
+    :git: https://github.com/yusefnapora/react-native.git
+
+CHECKOUT OPTIONS:
+  React:
+    :commit: 7442798078f261843d677bdf6af2a494edd306b0
+    :git: https://github.com/yusefnapora/react-native.git
+
+SPEC CHECKSUMS:
+  React: 0e657f7a79b9039dee1f39b42196379498cd34f0
+
+COCOAPODS: 0.36.4
